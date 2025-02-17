@@ -2,7 +2,7 @@ Hi there 👋
 
   🎓 Student | Junior Developer • Laravel • PHP • Javascript
 
-  🚀 Passionate about Laravel & the TALL Stack
+  🚀 Passionate about Laravel & AI
 
   💡 Constantly learning and improving to become the best version of myself
 
