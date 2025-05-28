@@ -1,6 +1,6 @@
 Hi there 👋
 
-  🎓 Student | Junior Developer • Laravel • PHP • Javascript
+  🎓 Student | PHP Developer • Laravel • Javascript
 
   🚀 Passionate about Laravel & AI
 
@@ -9,7 +9,7 @@ Hi there 👋
 
 🚀 About Me
 
-  🔭 I have 1 year of experience as a Junior Laravel Developer, working with PHP, Laravel, and modern web technologies
+  🔭 I have 1 year of experience as a PHP Developer, working with PHP, Laravel, and modern web technologies
 
   🌱 I’m currently learning advanced Laravel concepts & AI-enhanced web solutions
 
