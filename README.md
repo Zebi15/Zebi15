@@ -9,13 +9,11 @@ Hi there 👋
 
 🚀 About Me
 
-  🔭 I have 1 year of experience as a PHP Developer, working with PHP, Laravel, and modern web technologies
+  🔭 I have 2 years of experience as a PHP Developer, working with PHP, Laravel, and modern web technologies
 
   🌱 I’m currently learning advanced Laravel concepts & AI-enhanced web solutions
 
-  👯 I’m looking to collaborate on Laravel-based projects
-
-  📫 How to reach me: [https://www.linkedin.com/in/apostol-eusebiu-a894411a5/]
+  📫 How to reach me: [https://www.linkedin.com/in/aeusebiu/] 
 
   ⚡ Fun fact: I believe that learning never stops!
 
